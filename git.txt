@@ -1,0 +1,10 @@
+git add /*ファイル名*/
+git commit -m /*説明文*/
+
+/*初回手順*/
+git remote add origin /*リポジトリのURL*/.git
+git push -u origin master
+~~~~~~~~~~~~~~
+
+git push
+
